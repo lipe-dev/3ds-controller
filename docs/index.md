@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: 🎮 Home
 ---
-# 3ds-controller
+# 🎮 3ds-controller
 
 Connect an external controller to a 3DS device!
 

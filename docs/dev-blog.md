@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dev-Blog
+title: 📰 Dev-Blog
 ---
-# Latest Updates
+# 📰 Latest Updates
 
 Here is what new about this project:
 
