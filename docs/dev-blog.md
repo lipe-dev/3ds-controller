@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Blog
+title: Dev-Blog
 ---
-<h1>Latest Posts</h1>
+# Latest Updates
 
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-    </li>
-    {% endfor %}
-</ul>
+Here is what new about this project:
+
+{% for post in site.posts %}
+## [{{ post.title }}]({{ post.url }})
+> {{ post.date | date_to_string }} - {{ post.author }}
+
+{{ post.excerpt }}
+{% endfor %}

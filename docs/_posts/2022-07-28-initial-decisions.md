@@ -1,6 +1,7 @@
 ---
 layout: post
 author: lipe-dev
+title: Initial Decisions
 ---
 
 Tese past few days have been really exciting to me. I have installed the amazing PicoBoot modchip on my GameCube and got really inspired.
