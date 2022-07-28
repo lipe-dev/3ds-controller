@@ -38,8 +38,8 @@ We will support the following controllers:
 We can plan and add support for more controllers, however the focus should be these two for now.
 Mostly, because there are already pretty good libraries we can take advantage of to get these two connected to the arduino board.
 
-- https://github.com/NicoHood/Nintendo For the GC controller
-- https://github.com/madsci1016/Arduino-PS2X For the PS2 controller
+- [NicoHood/Nintendo](https://github.com/NicoHood/Nintendo) For the GC controller
+- [nadscu1916/Arduino-PS2X](https://github.com/madsci1016/Arduino-PS2X) For the PS2 controller
 
 Are we able to make them both work at once? I don't know. We will find out later.
 
