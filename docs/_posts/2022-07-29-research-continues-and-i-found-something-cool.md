@@ -4,8 +4,6 @@ author: lipe-dev
 title: Research continues, and I found something cool!
 ---
 
-# Research continues, and I found something cool!
-
 I found out a lot of things today. And here is a summary of it all.
 
 ## Not enough pins!
