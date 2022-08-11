@@ -18,7 +18,7 @@ That's basically the only hurdle we had to actually go through... but for 2 days
 
 I tried everything, New pro micro, new wires, disassembled everything and put it back together with double care... nothing.
 
-You can follow this saga in https://github.com/NicoHood/Nintendo/issues/54 and finally in (https://www.reddit.com/r/arduino/comments/wle3h3/has_anyone_had_success_reading_a_gamecube/)[this reddit thread] where my stupid mistake was finally revealed.
+You can follow this saga in https://github.com/NicoHood/Nintendo/issues/54 and finally in [this reddit thread](https://www.reddit.com/r/arduino/comments/wle3h3/has_anyone_had_success_reading_a_gamecube/) where my stupid mistake was finally revealed.
 
 Turns out not all rails on my breadboard are connected all the way through. A couple jumpers did the trick.
 
