@@ -24,3 +24,7 @@ Now that we got to this point, here are the next milestones I'll try reaching:
 - Make some automated bots/programmable macros and stuff. This will be awesome.
 
 Let's fucking go!
+
+Here is quick video of the first input ever sent to my 3DS from an external controller:
+
+https://user-images.githubusercontent.com/8506849/187050384-6d974e8e-0d29-40e8-af4f-59aaf694d1f6.mp4
